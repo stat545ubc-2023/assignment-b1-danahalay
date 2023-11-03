@@ -27,7 +27,7 @@ mins_to_hours <- function(mins) {
 #' mins_to_hours(1:5)
 ```
 
-### Exercise 3: Include examples
+### Exercise 3: Include Examples
 
 Here I will show examples of ways that the *mins_to_hours* function can
 be used with numeric inputs. I will also show an example of a way that
